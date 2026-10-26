@@ -1,6 +1,6 @@
 # Text → Numbers: Embeddings (Streamlit Demo)
 
-A beginner-friendly app that shows real tokenizer pieces, token IDs, and a real sentence embedding from `all-MiniLM-L6-v2`.
+A beginner-friendly app that shows real tokenizer pieces, token IDs, and a real sentence embedding from `multi-qa-mpnet-base-dot-v1`.
 
 ## Requirements
 - Python 3.10–3.12 recommended
